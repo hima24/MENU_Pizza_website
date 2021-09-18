@@ -1,4 +1,9 @@
 # MENU_Pizza_website
+
+## HOSTED WEBSITE: 
+https://hima24.github.io/MENU_Pizza_website/
+
+
 ## COVERPAGE 
 ![Snapshot1](https://github.com/hima24/MENU_Pizza_website/blob/main/S1.png?raw=true)
 ## MENU1
